@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Body style */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +48,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +58,7 @@ p {
     background-position: center;
 }
 
+/* Position Hero section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -100,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-/*Boxes article-style*/
+/* Boxes article-style */
 .article-style {
     margin-bottom: 20px;
     padding: 50px;
@@ -109,7 +112,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 
 .article-style img {
     max-height: 200px;
