@@ -30,6 +30,11 @@ The criteria adopted were:
 Deployed at live URL: https://raf203.github.io/refactor-horiseon/
 
 Screenshots:
-<img width="1440" alt="Screen Shot 2021-09-23 at 12 19 58 PM" src="https://user-<img width="1440" alt="Screen Shot 2021-09-23 at 12 20 04 PM" src="https://user-images.githubusercontent.com/89607465/134570426-6989de43-bea9-4ca2-b7c5-0685e414ebfb.png">
-images.githubusercontent.com/89607465/134570395-8ef7d9fb-7236-4d51-9b09-12641df204e0.png"><img width="1440" alt="Screen Shot 2021-09-23 at 12 20 07 PM" src="https://user-images.githubusercontent.com/89607465/134570462-00c99b8d-ff70-4e0c-b938-3d6d3168b3c9.png">
+
+<img width="1440" alt="Screen Shot 2021-09-23 at 12 19 58 PM" src="https://user-images.githubusercontent.com/89607465/134570639-5c052549-1537-44e9-8f65-e5d6f2993ef7.png">
+
+<img width="1440" alt="Screen Shot 2021-09-23 at 12 20 04 PM" src="https://user-images.githubusercontent.com/89607465/134570699-197189c6-6424-418d-ab62-801d2bce855a.png">
+
+<img width="1440" alt="Screen Shot 2021-09-23 at 12 20 07 PM" src="https://user-images.githubusercontent.com/89607465/134570738-ff58330e-6a13-4be7-9b71-9e4336cdf06f.png">
+
 
